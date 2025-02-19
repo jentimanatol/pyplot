@@ -1,2 +1,0 @@
-# pyplot
- Python Graph Visualisation 
