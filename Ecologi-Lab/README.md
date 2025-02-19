@@ -1,20 +1,22 @@
-# MAT-181: Statistical Data Visualization with Matplotlib
+# PyPlot: Data Visualization with Matplotlib
 
-Welcome to the **MAT-181** repository! This project focuses on visualizing statistical data using Python's Matplotlib library. It includes various graphing techniques such as histograms, frequency distributions, and confidence intervals to aid in statistical analysis.
+## 🌍 Global Environmental Change Data Visualizations
+
+Welcome to the **PyPlot** repository! This project is designed to present various data visualizations related to global environmental change, climate science, and statistical analysis using Python's Matplotlib library. It showcases statistical graphs and projects that help illustrate complex environmental patterns and trends.
 
 ## 📁 Project Structure
 
-The repository is organized into multiple directories, each representing different statistical visualization tasks:
+The repository is organized into multiple directories, each representing different visualization techniques and projects:
 
-- **90% Confidence Interval for Population Proportion**
-- **Cumulative Area from the Left**
-- **Frequency Distribution Graph**
-- **Histogram of Days Off for Police Detectives**
-- **Histogram of Heights in a Group**
-- **Histogram of Heights in a Group Bins**
-- **Histogram of Steps Walked**
+- **Histograms** - Representation of environmental data distributions
+- **Scatter Plots** - Identifying correlations in climate-related data
+- **Line Graphs** - Visualizing trends in global temperatures and CO₂ levels
+- **Bar Charts** - Comparing environmental statistics across regions
+- **Box Plots** - Analyzing variability in climate-related datasets
+- **Statistical Distributions** - Understanding data through probability distributions
+- **Global Environmental Change Graphs** - Specific visualizations related to climate change impact
 
-Each folder contains Python scripts demonstrating how to visualize specific statistical concepts using Matplotlib.
+Each folder contains Python scripts and Jupyter notebooks demonstrating how to visualize different datasets effectively.
 
 ---
 
@@ -31,7 +33,7 @@ Make sure to check the box **"Add Python to PATH"** during installation.
 This project relies on Matplotlib and other scientific computing libraries. You can install them using `pip`:
 
 ```sh
-pip install matplotlib numpy pandas scipy
+pip install matplotlib numpy pandas scipy seaborn
 ```
 
 If you're using Jupyter Notebook, install it as well:
@@ -44,8 +46,8 @@ pip install notebook
 To get a copy of the repository on your local machine, use:
 
 ```sh
-git clone https://github.com/yourusername/MAT-181.git
-cd MAT-181
+git clone https://github.com/jentimanatol/pyplot.git
+cd pyplot
 ```
 
 ---
@@ -53,11 +55,11 @@ cd MAT-181
 ## ▶️ How to Use
 
 ### Running Individual Scripts
-Each folder contains Python scripts that generate specific statistical graphs. Navigate to a directory and execute the script:
+Each folder contains Python scripts that generate specific visualizations. Navigate to a directory and execute the script:
 
 ```sh
-cd "Histogram of Steps Walked"
-python histogram_steps.py
+cd "Histograms"
+python histogram_example.py
 ```
 
 Or, if using Jupyter Notebook:
@@ -67,27 +69,42 @@ jupyter notebook
 ```
 Then open the respective `.ipynb` file.
 
-### Example: Generating a Histogram
-Here’s a quick example of how to generate a histogram using Matplotlib:
+### Example: Creating a Climate Change Line Graph
+Here’s a quick example of how to generate a simple line graph representing global temperature trends:
 
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
 
-data = np.random.normal(170, 10, 250)  # Example height data
-plt.hist(data, bins=10, color='blue', edgecolor='black')
-plt.title("Histogram of Heights")
-plt.xlabel("Height (cm)")
-plt.ylabel("Frequency")
+years = np.arange(1880, 2025, 5)
+temperatures = np.random.normal(14.0, 0.5, len(years))  # Simulated global temperature anomalies
+
+plt.plot(years, temperatures, label='Global Temperature Anomaly', color='red')
+plt.title("Global Temperature Anomalies Over Time")
+plt.xlabel("Year")
+plt.ylabel("Temperature Anomaly (°C)")
+plt.legend()
 plt.show()
 ```
 
 ---
 
 ## 📊 Features
-- Visualize different statistical distributions
-- Analyze frequency distributions and confidence intervals
-- Easily modify scripts for customized data visualization
+- Create various types of plots including histograms, scatter plots, and line graphs
+- Understand global environmental trends through data visualization
+- Analyze the impact of human activities on climate change
+- Easily modify scripts for customized data exploration
+
+---
+
+## 📚 Course Context: ENV250 - Global Environmental Change
+This project aligns with **Global Environmental Change (ENV250)** at Bunker Hill Community College, instructed by **Krista Reichert**. It aims to support the study of:
+- Earth as a complex system
+- Human influences on climate change
+- Mitigation and adaptation strategies
+- Data-driven decision-making in environmental sciences
+
+For more details, refer to the **course syllabus** or contact **kreicher@bhcc.mass.edu**.
 
 ---
 
@@ -110,7 +127,6 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 📩 **Contact:** If you have any questions, reach out via GitHub Issues.
 
----
 
-Happy Coding! 🎉📊
-
+_Not protected by copyright, may be used for its intended purpose._  
+_Author: Anatolie Jentimir._

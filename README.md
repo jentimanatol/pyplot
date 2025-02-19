@@ -112,7 +112,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 📩 **Contact:** If you have any questions, reach out via GitHub Issues.
 
----
 
-Happy Coding! 🎉📊
 
+_Not protected by copyright, may be used for its intended purpose._  
+_Author: Anatolie Jentimir._
