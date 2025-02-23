@@ -27,7 +27,7 @@ where:
 
 ## Credits
 
-This partial solution was collaboratively developed by [My Love - You] and [Myself - Surekha Sweetie].
+This partial solution was collaboratively developed by [ Anatolie] and [ Surekha].
 
 ## License
 
