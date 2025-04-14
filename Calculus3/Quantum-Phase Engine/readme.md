@@ -12,9 +12,8 @@ Simulation of quantum systems with internal memory and dynamic feedback remains 
 ## 2. Foundational Formula
 The central observable \( \mathcal{P} \) is defined as:
 
-\[
-\mathcal{P} = \int_{\Omega \rightarrow \emptyset} \left[ \frac{\Psi(x) \otimes \Phi(x)}{\sqrt{-1 + (\gamma + 0.01i)x^{\tau_{QCD}} + \frac{\mathcal{P}^2}{\tau_{QCD}^2} + \frac{\tau_{QCD}^3}{10x^2}}} \right] dx
-\]
+
+- $mathcal{P} = \int_{\Omega \rightarrow \emptyset} \left[ \frac{\Psi(x) \otimes \Phi(x)}{\sqrt{-1 + (\gamma + 0.01i)x^{\tau_{QCD}} + \frac{\mathcal{P}^2}{\tau_{QCD}^2} + \frac{\tau_{QCD}^3}{10x^2}}} \right] dx$
 
 Where:
 - \( \Psi(x) = \sin(x) \): Quantum wave function
