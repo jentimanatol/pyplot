@@ -1,0 +1,72 @@
+[
+    {
+        "Title": "Dream On",
+        "Genre Contribution ($)": 16261314.61,
+        "Director (Elizabeth Banks) Contribution ($)": 77430000.0,
+        "Cast Contributions ($)": {
+            "Shailene Woodley": 15092000.0,
+            "Amandla Stenberg": 0,
+            "Ashley Greene": 0,
+            "Farrah MacKenzie": 0,
+            "Raviv Ulman": 0
+        },
+        "Budget ($)": 80000000,
+        "Estimated Gross Profit ($)": 28783314.61
+    },
+    {
+        "Title": "Blood Moon",
+        "Genre Contribution ($)": 28043210.7,
+        "Director (Todd Phillips) Contribution ($)": 39255000.0,
+        "Cast Contributions ($)": {
+            "Emma Watson": 1260000.0,
+            "John Boyega": 0,
+            "Terry Crews": 0,
+            "Sela Ward": 0,
+            "Ben McKenzie": 0
+        },
+        "Budget ($)": 80000000,
+        "Estimated Gross Profit ($)": -11441789.3
+    },
+    {
+        "Title": "Gift Exchange",
+        "Genre Contribution ($)": 46083000.0,
+        "Director (Ava DuVernay) Contribution ($)": 14040000.0,
+        "Cast Contributions ($)": {
+            "Mackenzie Foy": 0,
+            "Emily Kinney": 0,
+            "Famke Janssen": 0,
+            "Bailee Madison": 0,
+            "Kiernan Shipka": 0
+        },
+        "Budget ($)": 50000000,
+        "Estimated Gross Profit ($)": 10123000.0
+    },
+    {
+        "Title": "Unlikely Friends",
+        "Genre Contribution ($)": 55960000.0,
+        "Director (Tim Burton) Contribution ($)": 17220000.0,
+        "Cast Contributions ($)": {
+            "Dusan Brown": 0,
+            "Ming-Na Wen": 0,
+            "Queen Latifah": 0,
+            "Jeremy Irons": 0,
+            "Raymond Ochoa": 0
+        },
+        "Budget ($)": 75000000,
+        "Estimated Gross Profit ($)": -1820000.0
+    },
+    {
+        "Title": "Puppy Love",
+        "Genre Contribution ($)": 42137394.96,
+        "Director (Jennifer Westfeldt) Contribution ($)": 660000.0,
+        "Cast Contributions ($)": {
+            "Gabrielle Union": 0,
+            "Sam Claflin": 0,
+            "Adam DeVine": 0,
+            "Gary Cole": 0,
+            "Eva Mendes": 0
+        },
+        "Budget ($)": 40000000,
+        "Estimated Gross Profit ($)": 2797394.96
+    }
+]
