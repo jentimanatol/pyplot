@@ -3,13 +3,12 @@
 ## 📊 Visualizations
 
 
- ![P_vs_tau](./Figure_1.png) 
+ ![.](./Figure_1.png) 
 
- ![P_vs_tau](./Figure_2.png) 
+ ![.](./Figure_2.png) 
 
- ![P_vs_tau](./Figure_3.png) 
+ ![.](./Figure_3.png) 
 
- ![P_vs_tau](./Figure_4.png) 
 
 
 ## 📚 License
