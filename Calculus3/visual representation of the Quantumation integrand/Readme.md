@@ -47,6 +47,17 @@ This integral's **nonlinear feedback** structure allows the simulation to evolve
 
 ---
 
+
+
+## 📊 Visualizations
+
+
+ ![P_vs_tau](./Figure_1.png) 
+
+
+
+
+
 ## 🧪 Sample Output per Frame
 
 ```json
