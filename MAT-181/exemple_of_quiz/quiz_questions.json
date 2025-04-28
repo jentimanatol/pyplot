@@ -1,0 +1,247 @@
+[
+    {
+        "question": "For the population, find the proportion of even numbers. (Round to three decimal places as needed.)",
+        "options": ["0.333", "0.500", "0.250", "0.125"],
+        "answer": "0.333"
+    },
+    {
+        "question": "The value of ModifyingAbove p with caret is?",
+        "options": ["the margin of error", "the sample proportion", "the sample size", "found from evaluating 1 minus ModifyingAbove p with caret"],
+        "answer": "the sample proportion"
+    },
+    {
+        "question": "Find the critical value z Subscript alpha divided by 2 that corresponds to the given confidence level. 87%",
+        "options": ["1.81", "1.23", "1.56", "2.01"],
+        "answer": "1.81"
+    },
+    {
+        "question": "Express the confidence interval 0.666 < p < 0.888 in the form ModifyingAbove p with caret plus or minus Upper E.",
+        "options": ["0.777 ± 0.111", "0.700 ± 0.111", "0.750 ± 0.120", "0.800 ± 0.100"],
+        "answer": "0.777 ± 0.111"
+    },
+    {
+        "question": "What is the confidence interval estimate of the mean body temperature of all healthy humans?",
+        "options": ["98.111°F < μ < 98.489°F", "98.200°F < μ < 98.600°F", "98.000°F < μ < 98.500°F", "98.050°F < μ < 98.450°F"],
+        "answer": "98.111°F < μ < 98.489°F"
+    },
+    {
+        "question": "What is the P-value for the test statistic z = -10.16?",
+        "options": ["Approximately 0", "0.05", "0.01", "0.10"],
+        "answer": "Approximately 0"
+    },
+    {
+        "question": "A certain drug is used to treat asthma. In a clinical trial of the drug, 22 of 275 treated subjects experienced headaches. Use a 0.01 significance level to test the claim that less than 12% of treated subjects experienced headaches. What is the test statistic?",
+        "options": ["-2.04", "-1.96", "-1.78", "-1.65"],
+        "answer": "-2.04"
+    },
+    {
+        "question": "What is the P-value for the given asthma headache study?",
+        "options": ["0.011", "0.025", "0.050", "0.001"],
+        "answer": "0.011"
+    },
+    {
+        "question": "Suppose IQ scores were obtained for 20 randomly selected sets of siblings. The 20 pairs of measurements yield x̄=99.72, ȳ=98.65, r=0.853, P-value=0.000, and ŷ = 3.37 + 0.96x, where x represents the IQ score of the older child. Find the best predicted value of ŷ given that the older child has an IQ of 96?",
+        "options": ["95.53", "96.45", "97.20", "98.15"],
+        "answer": "95.53"
+    },
+    {
+        "question": "What is the hypothesis test type for testing the claim that p > 0.4 with z = 2.30?",
+        "options": ["Right-tailed test", "Left-tailed test", "Two-tailed test", "None"],
+        "answer": "Right-tailed test"
+    },
+    {
+        "question": "Using a hypothesis test where p > 0.4 and z = 2.30, what is the conclusion based on α = 0.05?",
+        "options": ["Reject H0, there is sufficient evidence that p > 0.4", "Fail to reject H0, insufficient evidence", "Reject H0, insufficient evidence", "Fail to reject H0, sufficient evidence"],
+        "answer": "Reject H0, there is sufficient evidence that p > 0.4"
+    },
+    {
+        "question": "A data set includes weights of garbage discarded in one week from 62 different households. The paired weights of paper and glass were used to obtain r = 0.3755. Use a significance level of α = 0.05. Does sufficient evidence exist to support a claim of correlation?",
+        "options": ["Yes, r > critical value", "No, r < critical value", "Yes, absolute value of r is greater", "No, absolute value of r is smaller"],
+        "answer": "Yes, absolute value of r is greater"
+    },
+    {
+        "question": "Listed below are numbers of Internet users per 100 people and numbers of scientific award winners per 10 million people for different countries. What is the linear correlation coefficient r?",
+        "options": ["0.376", "0.420", "0.320", "0.500"],
+        "answer": "0.376"
+    },
+    {
+        "question": "Listed below are numbers of Internet users per 100 people and scientific award winners per 10 million. What is the conclusion based on α = 0.01?",
+        "options": ["There is no sufficient evidence", "There is sufficient evidence", "Reject H0", "Fail to reject H0"],
+        "answer": "There is no sufficient evidence"
+    },
+    {
+        "question": "Suppose a drug is used to treat asthma. 22 of 275 subjects experienced headaches. Using α = 0.01, test the claim that more than 20% of users develop nausea.",
+        "options": ["Fail to reject H0", "Reject H0", "There is sufficient evidence", "There is insufficient evidence"],
+        "answer": "Fail to reject H0"
+    },
+    {
+        "question": "Rhino viruses typically cause common colds. In a test of the effectiveness of echinacea, 36 of 42 subjects treated developed infections. In a placebo group, 83 of 99 developed infections. Use α = 0.05. What is the hypothesis test conclusion?",
+        "options": ["Echinacea does not appear to have an effect", "Echinacea lowers infection rate", "Echinacea increases infection rate", "The results are inconclusive"],
+        "answer": "Echinacea does not appear to have an effect"
+    },
+    {
+        "question": "The data show the chest size and weight of several bears. Find the regression equation letting chest size be the independent variable and weight as the dependent variable.",
+        "options": ["ŷ = -134.9 + 12.4x", "ŷ = -140.5 + 10.2x", "ŷ = -120.8 + 11.5x", "ŷ = -130.2 + 13.5x"],
+        "answer": "ŷ = -134.9 + 12.4x"
+    },
+    {
+        "question": "Find the best predicted weight for a bear with a chest size of 53 inches based on the regression equation. Is the result close to the actual weight of 585 pounds?",
+        "options": ["522.3 pounds", "530.5 pounds", "550.1 pounds", "560.8 pounds"],
+        "answer": "522.3 pounds"
+    },
+
+
+
+    {
+        "question": "Listed below are numbers of Internet users per 100 people and numbers of scientific award winners per 10 million people for different countries. Use the data to test the claim of linear correlation at α = 0.05. What is the conclusion?",
+        "options": ["There is sufficient evidence", "There is no sufficient evidence", "Fail to reject H0", "Reject H0"],
+        "answer": "There is no sufficient evidence"
+    },
+    {
+        "question": "A newspaper published an article about a study in which researchers subjected laboratory gloves to stress. 59% of vinyl gloves leaked viruses compared to 11% of latex gloves. Using a significance level of α = 0.05, test the claim that vinyl gloves have a greater leak rate. What are the null and alternative hypotheses?",
+        "options": [
+            "H0: p1 = p2, H1: p1 > p2",
+            "H0: p1 ≠ p2, H1: p1 = p2",
+            "H0: p1 < p2, H1: p1 = p2",
+            "H0: p1 = p2, H1: p1 ≠ p2"
+        ],
+        "answer": "H0: p1 = p2, H1: p1 > p2"
+    },
+    {
+        "question": "What is the P-value for testing whether vinyl gloves have a higher leak rate than latex gloves?",
+        "options": ["0.000", "0.005", "0.010", "0.020"],
+        "answer": "0.000"
+    },
+    {
+        "question": "Suppose weights of garbage discarded in one week from 62 households were analyzed. Paired weights of paper and glass gave a correlation coefficient r = 0.3755. Using α = 0.05, test for linear correlation. What is the null hypothesis?",
+        "options": [
+            "H0: = 0",
+            "H0: ≠ 0",
+            "H0: > 0",
+            "H0: < 0"
+        ],
+        "answer": "H0: = 0"
+    },
+    {
+        "question": "The data show chest sizes and weights of several bears. Let chest size be the independent variable. What is the best predicted weight of a bear with a chest size of 53 inches?",
+        "options": ["522.3 pounds", "550.2 pounds", "530.1 pounds", "562.5 pounds"],
+        "answer": "522.3 pounds"
+    },
+    {
+        "question": "Suppose IQ scores were obtained for 20 randomly selected sets of siblings. Pairs of measurements yield x̄=99.72, ȳ=98.65, r=0.853, and P-value=0.000. Test for correlation between older and younger siblings' IQs at α = 0.01. What conclusion can be drawn?",
+        "options": [
+            "Reject H0, there is correlation",
+            "Fail to reject H0, no correlation",
+            "Reject H0, no correlation",
+            "Fail to reject H0, there is correlation"
+        ],
+        "answer": "Reject H0, there is correlation"
+    },
+    {
+        "question": "A test statistic z = 2.30 is obtained when testing the claim that p > 0.4. With α = 0.05, should you reject or fail to reject the null hypothesis?",
+        "options": [
+            "Reject H0, there is evidence for p > 0.4",
+            "Fail to reject H0, insufficient evidence",
+            "Reject H0, insufficient evidence",
+            "Fail to reject H0, there is evidence for p > 0.4"
+        ],
+        "answer": "Reject H0, there is evidence for p > 0.4"
+    },
+    {
+        "question": "Is there a linear correlation between Internet users and scientific award winners when r = 0.376 and α = 0.05?",
+        "options": [
+            "No, insufficient evidence",
+            "Yes, sufficient evidence",
+            "No, r is below the critical value",
+            "Yes, r is above the critical value"
+        ],
+        "answer": "No, insufficient evidence"
+    },
+
+
+    {
+        "question": "A clinical trial of a drug found that 22 out of 275 treated subjects experienced headaches. Using α = 0.01, test the claim that fewer than 12% of treated subjects experienced headaches. What are the null and alternative hypotheses?",
+        "options": [
+            "H0: p = 0.12, H1: p < 0.12",
+            "H0: p = 0.12, H1: p ≠ 0.12",
+            "H0: p < 0.12, H1: p = 0.12",
+            "H0: p ≠ 0.12, H1: p = 0.12"
+        ],
+        "answer": "H0: p = 0.12, H1: p < 0.12"
+    },
+    {
+        "question": "In testing the claim that fewer than 12% of treated subjects experienced headaches, what is the P-value corresponding to z = -2.041?",
+        "options": ["0.021", "0.011", "0.050", "0.005"],
+        "answer": "0.021"
+    },
+    {
+        "question": "A test statistic z = -2.041 is used to test the claim that fewer than 12% of treated subjects experienced headaches. Should you reject or fail to reject the null hypothesis at α = 0.01?",
+        "options": [
+            "Fail to reject H0, insufficient evidence",
+            "Reject H0, sufficient evidence",
+            "Fail to reject H0, sufficient evidence",
+            "Reject H0, insufficient evidence"
+        ],
+        "answer": "Reject H0, sufficient evidence"
+    },
+    {
+        "question": "Suppose 220 subjects were treated with a drug and 51 of them developed nausea. Use α = 0.01 to test the claim that more than 20% of users develop nausea. What is the P-value for this hypothesis test?",
+        "options": ["0.119", "0.089", "0.040", "0.001"],
+        "answer": "0.119"
+    },
+    {
+        "question": "Listed below are paired weights of paper and glass discarded by 62 households. The correlation coefficient is r = 0.3755. Use α = 0.05 to determine whether there is a linear correlation between weights of paper and glass. What are the critical values?",
+        "options": [
+            "±0.254",
+            "±0.376",
+            "±0.300",
+            "±0.500"
+        ],
+        "answer": "±0.254"
+    },
+    {
+        "question": "In testing the linear correlation between weights of paper and glass discarded by households, the correlation coefficient r = 0.3755. Is there sufficient evidence at α = 0.05 to support a claim of linear correlation?",
+        "options": [
+            "Yes, r > critical value",
+            "No, r < critical value",
+            "Yes, absolute value of r is greater",
+            "No, absolute value of r is smaller"
+        ],
+        "answer": "Yes, absolute value of r is greater"
+    },
+    {
+        "question": "Rhino viruses typically cause common colds. In a study testing the effectiveness of echinacea, 36 out of 42 subjects treated with echinacea developed infections. In a placebo group, 83 out of 99 subjects developed infections. Test the claim at α = 0.05 that echinacea has an effect on rhinovirus infections.",
+        "options": [
+            "Echinacea does not appear to have a significant effect",
+            "Echinacea does lower infection rate",
+            "Echinacea increases infection rate",
+            "The results are inconclusive"
+        ],
+        "answer": "Echinacea does not appear to have a significant effect"
+    },
+    {
+        "question": "Suppose chest sizes and weights of several bears were analyzed. Let chest size be the independent variable. Based on the regression equation ŷ = -134.9 + 12.4x, what is the predicted weight for a bear with a chest size of 53 inches?",
+        "options": ["522.3 pounds", "530.5 pounds", "550.1 pounds", "562.8 pounds"],
+        "answer": "522.3 pounds"
+    },
+    {
+        "question": "Listed below are the numbers of Internet users per 100 people and scientific award winners per 10 million for different countries. Use the linear correlation coefficient r = 0.376 and α = 0.05 to test the claim of correlation. What is the conclusion?",
+        "options": [
+            "There is no sufficient evidence",
+            "There is sufficient evidence",
+            "Fail to reject H0",
+            "Reject H0"
+        ],
+        "answer": "There is no sufficient evidence"
+    }
+
+
+
+
+
+
+
+
+
+    
+]
