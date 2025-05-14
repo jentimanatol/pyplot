@@ -1,0 +1,793 @@
+Element,Contribution ($),Type
+Action,151029500.0,Genre
+Adventure,225804761.9047619,Genre
+Animation,186533333.33333334,Genre
+Biography,30046666.666666668,Genre
+Comedy,83528571.42857143,Genre
+Crime,27226086.95652174,Genre
+Documentary,58500000.0,Genre
+Drama,54204382.02247191,Genre
+Family,192475000.0,Genre
+Fantasy,153610000.0,Genre
+Horror,60958139.53488372,Genre
+Musical,89750000.0,Genre
+Mystery,74180000.0,Genre
+Religious,26771428.57142857,Genre
+Romance,33974615.384615384,Genre
+Sci-Fi,190189285.7142857,Genre
+Thriller,103693750.0,Genre
+Action,100114285.71428572,Secondary Genre
+Adventure,231678260.86956522,Secondary Genre
+Biography,39233333.333333336,Secondary Genre
+Comedy,117277777.77777778,Secondary Genre
+Crime,26050000.0,Secondary Genre
+Documentary,18600000.0,Secondary Genre
+Drama,58509615.384615384,Secondary Genre
+Family,222814285.7142857,Secondary Genre
+Fantasy,189258333.33333334,Secondary Genre
+Horror,147172727.27272728,Secondary Genre
+Musical,28480000.0,Secondary Genre
+Mystery,193900000.0,Secondary Genre
+Romance,56929411.76470588,Secondary Genre
+Sci-Fi,112200000.0,Secondary Genre
+Sports,-2500000.0,Secondary Genre
+Thriller,66251282.05128205,Secondary Genre
+Adam McKay,105300000.00000001,Director
+Adam Shankman,-15600000.0,Director
+Adam Wingard,25800000.0,Director
+Akiva Goldsman,-28900000.0,Director
+Akiva Schaffer,300000.0,Director
+Alan Taylor,285600000.0,Director
+Alejandro G. Iñárritu,398000000.0,Director
+Alejandro Gómez Monteverde,-2500000.0,Director
+Aleksander Bach,47300000.0,Director
+Alex Garland,21900000.0,Director
+Alex Kendrick,70700000.0,Director
+Alex Kurtzman,-3600000.0,Director
+Alex Proyas,5700000.0,Director
+Alfonso Gomez-Rejon,1100000.0,Director
+Andres Muschietti,131400000.0,Director
+Andrew Dominik,22900000.0,Director
+Andrew Erwin and Jon Erwin,5500000.0,Director
+Andrew Niccol,23300000.0,Director
+Andy Fickman,81200000.0,Director
+Ang Lee,489000000.0,Director
+Angelina Jolie,45850000.0,Director
+Angelo Pizzo,-17800000.0,Director
+Anna Muylaert,2200000.0,Director
+Anne Fletcher,16700000.0,Director
+Anthony Hemingway,-7600000.0,Director
+Anthony Russo,544400000.0,Director
+Anthony Stacchi,49300000.0,Director
+Antoine Fuqua,96766666.66666667,Director
+Anton Corbijn,21200000.0,Director
+Ari Sandel,35000000.0,Director
+Ariel Schulman,137800000.0,Director
+Ariel Vromen,-750000.0,Director
+Asger Leth,4200000.0,Director
+Asif Kapadia,18600000.0,Director
+Ava DuVernay,46800000.0,Director
+Babak Najafi,135700000.0,Director
+Baltasar Kormákur,70900000.0,Director
+Barry Levinson,-11600000.0,Director
+Barry Sonnenfeld,199050000.0,Director
+Baz Luhrmann,246000000.0,Director
+Ben Affleck,187800000.0,Director
+Ben Falcone,65050000.0,Director
+Ben Stiller,6000000.0,Director
+Benh Zeitlin,20100000.0,Director
+Benson Lee,-3500000.0,Director
+Bill Condon,709700000.0,Director
+Bille Woodruff,5400000.0,Director
+Billy Ray,12700000.000000004,Director
+Boaz Yakin,24000000.0,Director
+Bobby Farrelly,24800000.0,Director
+Brad Anderson,55600000.0,Director
+Brad Furman,-16150000.0,Director
+Brad Peyton,256300000.0,Director
+Bradley Parker,36200000.0,Director
+Breck Eisner,50400000.0,Director
+Brian Helgeland,57500000.0,Director
+Brian Robbins,-18000000.0,Director
+Bruno Podalydès,-500000.0,Director
+Bryan Singer,457250000.0,Director
+Burr Steers,-11600000.000000002,Director
+Cal Brunker,34600000.0,Director
+Cameron Crowe,-25700000.0,Director
+Camille Delamarre,46800000.0,Director
+Carlo Carlei,-12000000.0,Director
+Carlos Saldanha,397100000.0,Director
+Cedric Nicolas-Troyan,49600000.0,Director
+Chad Stahelski,66000000.0,Director
+Charles Martin Smith,21800000.0,Director
+Chris Butler,47100000.0,Director
+Chris Columbus,115900000.0,Director
+Chris Renaud,607833333.3333334,Director
+Chris Rock,14100000.0,Director
+Chris Sanders,452200000.0,Director
+Chris Wedge,175399999.99999997,Director
+Christopher McQuarrie,345300000.0,Director
+Christopher Nolan,510100000.0,Director
+Christopher Spencer,45800000.0,Director
+Ciaran Foy,42900000.0,Director
+Ciro Guerra,1400000.0,Director
+Clay Kaytis,273900000.0,Director
+Clint Eastwood,248850000.0,Director
+Cody Cameron,196300000.0,Director
+Courtney Solomon,-6200000.0,Director
+Curtis Hanson,-11700000.0,Director
+Cyrus Nowrasteh,-11300000.0,Director
+Damien Chazelle,45700000.0,Director
+Dan Bradley,-16900000.0,Director
+Dan Fogelman,-1800000.000000001,Director
+Dan Gilroy,41800000.0,Director
+Dan Trachtenberg,93300000.0,Director
+Daniel Barnz,-13600000.0,Director
+Daniel Espinosa,43050000.0,Director
+Daniel Lee,55000000.0,Director
+Danny Boyle,4350000.0,Director
+Darren Aronofsky,237600000.0,Director
+Dave Green,69900000.0,Director
+David Ayer,157275000.0,Director
+David Bowers,55100000.0,Director
+David Dobkin,34400000.0,Director
+David F. Sandberg,121000000.0,Director
+David Fincher,308300000.0,Director
+David Frankel,84300000.0,Director
+David Gelb,35100000.0,Director
+David Gordon Green,-19400000.0,Director
+David Koepp,-8450000.0,Director
+David Lowery,-3000000.0,Director
+David M. Rosenthal,42300000.0,Director
+David O. Russell,128250000.0,Director
+David Soren,155600000.0,Director
+David Twohy,60300000.0,Director
+David Wain,-10800000.0,Director
+David Yates,172700000.0,Director
+Dax Shepard,12500000.0,Director
+Dean DeBlois,476500000.0,Director
+Dean Israelite,21200000.000000004,Director
+Dean Parisot,64100000.0,Director
+Denis Villeneuve,65500000.0,Director
+Deniz Gamze Ergüven,3600000.0,Director
+Dennis Dugan,167000000.0,Director
+Dennis Gansel,-32500000.0,Director
+Derek Cianfrance,32000000.0,Director
+Dexter Fletcher,23200000.0,Director
+Diego Luna,-3300000.0,Director
+Don Scardino,-6600000.0,Director
+Doug Ellin,10300000.0,Director
+Doug Liman,192500000.0,Director
+Drew Goddard,36500000.0,Director
+Duncan Jones,273500000.0,Director
+Dustin Marcellino,-13200000.0,Director
+Ed Gass-Donnelly,10100000.0,Director
+Ed Zwick,-13600000.0,Director
+Edgar Wright,26100000.0,Director
+Elizabeth Banks,258100000.0,Director
+Eric Darnell,601900000.0,Director
+Ericson Core,28699999.999999985,Director
+Etan Cohen,71800000.0,Director
+Evan Goldberg,94000000.0,Director
+F. Gary Gray,151600000.0,Director
+Fede Alvarez,49450000.0,Director
+Francis Lawrence,561900000.0,Director
+Frank Coraci,59550000.0,Director
+Frank Miller,-25600000.0,Director
+Gareth Edwards,369000000.0,Director
+Gareth Evans,5070000.0,Director
+Garry Marshall,18800000.0,Director
+Gary Ross,293800000.0,Director
+Gary Rydstrom,122600000.0,Director
+Gary Shore,147100000.0,Director
+Gavin Hood,19799999.999999996,Director
+Gavin O'Connor,-22000000.0,Director
+Genndy Tartakovsky,333200000.0,Director
+George Clooney,85000000.0,Director
+George Miller,228400000.0,Director
+Ghaz Abu Bakar,14900000.0,Director
+Gil Kenan,60400000.0,Director
+Gina Prince-Bythewood,7600000.0,Director
+Glenn Ficarra,-10100000.0,Director
+Greg McLean,6900000.0,Director
+Gregory Plotkin,68100000.0,Director
+Grímur Hákonarson,-10000.0,Director
+Guillermo del Toro,120350000.0,Director
+Gus Van Sant,-6900000.0,Director
+Guy Ritchie,34800000.0,Director
+Harald Zwart,30600000.0,Director
+Harold Cronk,39550000.0,Director
+Henry Joost,27600000.0,Director
+Ivan Reitman,4500000.0,Director
+J Blakeson,75700000.0,Director
+J. C. Chandor,-8000000.0,Director
+Jake Schreier,37950000.0,Director
+James DeMonaco,90950000.0,Director
+James Mangold,294800000.0,Director
+James Marsh,108700000.0,Director
+James Mather,12200000.000000004,Director
+James McTeigue,3700000.0,Director
+James Ponsoldt,4400000.0,Director
+James Vanderbilt,-4200000.0,Director
+James Wan,244800000.0,Director
+James Watkins,113500000.0,Director
+Jason Moore,86700000.0,Director
+Jason Zada,27600000.0,Director
+Jaume Collet-Serra,86366666.66666667,Director
+Jay Duplass,0.0,Director
+Jay Roach,1549999.9999999995,Director
+Jean-Marc Vallée,37500000.0,Director
+Jeff Nichols,5400000.0,Director
+Jennifer Westfeldt,2200000.0,Director
+Jennifer Yuh Nelson,374900000.0,Director
+Jeremy Garelick,56800000.0,Director
+Jerrica Cleland,-7200000.0,Director
+Jerry Jameson,800000.0,Director
+Jessie Nelson,17100000.0,Director
+Jodie Foster,66100000.0,Director
+Joe Carnahan,52300000.0,Director
+Joe Wright,-21600000.0,Director
+Joel Edgerton,54000000.0,Director
+Joel and Ethan Coen,0.0,Director
+John Crowley,51100000.0,Director
+John Erick Dowdle,24700000.0,Director
+John Francis Daley,73900000.0,Director
+John Hillcoat,3400000.0,Director
+John Luessenhop,27200000.0,Director
+John Madden,101400000.0,Director
+John Moore,212700000.0,Director
+John R. Leonetti,250399999.99999997,Director
+John Wells,16600000.0,Director
+Jon Chu,245700000.0,Director
+Jon Favreau,35000000.0,Director
+Jon Hurwitz,185000000.0,Director
+Jon Lucas,104200000.0,Director
+Jon M. Chu,114100000.0,Director
+Jonathan Demme,23300000.0,Director
+Jonathan Jakubowicz,-18300000.0,Director
+Jonathan Levine,54700000.0,Director
+Jonathan Liebesman,261800000.0,Director
+Jorge R. Gutierrez,49800000.0,Director
+Jorma Taccone,-10500000.0,Director
+Joseph Kosinski,166200000.0,Director
+Josh Boone,294200000.0,Director
+Josh Schwartz,-2600000.0,Director
+Josh Trank,81300000.0,Director
+Joshua Michael Stern,23900000.0,Director
+José Padilha,142700000.0,Director
+Juan Antonio Bayona,135300000.0,Director
+Julie Anne Robinson,-3100000.0,Director
+Justin Lin,343350000.0,Director
+Kathryn Bigelow,92800000.00000001,Director
+Ken Kwapis,28000000.0,Director
+Ken Scott,-20600000.0,Director
+Kenneth Branagh,75500000.0,Director
+Kevin Reynolds,26100000.0,Director
+Kevin Smith,-1100000.0,Director
+Kim Ji-woon,3300000.0,Director
+Kirk Jones,57650000.0,Director
+Larry Charles,114400000.0,Director
+Lasse Hallström,43550000.0,Director
+Lee Daniels,146600000.0,Director
+Lee Toland Krieger,40700000.0,Director
+Leigh Whannell,102000000.0,Director
+Len Wiseman,73500000.0,Director
+Lenny Abrahamson,23000000.0,Director
+Levan Gabriadze,63099999.99999999,Director
+Louis Leterrier,276700000.0,Director
+Luc Besson,235900000.0,Director
+Luke Greenfield,121200000.0,Director
+László Nemes,4700000.0,Director
+M. Night Shyamalan,103650000.0,Director
+Mabrouk El Mechri,-3100000.0,Director
+Malcolm D. Lee,46700000.0,Director
+Marc Abraham ,-10400000.0,Director
+Marc Forster,350000000.0,Director
+Marc Webb,527900000.0,Director
+Marcus Dunstan,-1100000.0,Director
+Mark Burton,81000000.0,Director
+Mark Neveldine,38050000.0,Director
+Mark Waters,-14600000.0,Director
+Matt Bettinelli-Olpin,29900000.0,Director
+Matt Hullum,-800000.0,Director
+Matt Reeves,475600000.0,Director
+Matthew Diamond,-18900000.0,Director
+Matthew Vaughn,320400000.0,Director
+McG,91500000.0,Director
+Michael Bay,42300000.0,Director
+Michael Cuesta,-2500000.0,Director
+Michael Dougherty,46500000.0,Director
+Michael J. Bassett,32300000.0,Director
+Michael Mann,-50300000.0,Director
+Michael Polish,-200000.0,Director
+Michael Tiddes,38800000.0,Director
+Michaël R. Roskam,6100000.0,Director
+Mike Thurmeier,263300000.0,Director
+Morgan Spurlock,58500000.0,Director
+Morten Tyldum,219600000.0,Director
+Nancy Meyers,150600000.0,Director
+Nat Faxon,0.0,Director
+Neil Burger,203900000.0,Director
+Neill Blomkamp,112100000.0,Director
+Nicholas Hytner,35400000.0,Director
+Nicholas Stoller,116500000.0,Director
+Nick Cassavetes,156700000.0,Director
+Nicole Holofcener,17300000.0,Director
+Niels Arden Oplev,-11900000.0,Director
+Nima Nourizadeh,44900000.0,Director
+Noah Baumbach,8300000.0,Director
+Noam Murro,227600000.0,Director
+Ole Bornedal,64500000.0,Director
+Oliver Stone,38000000.0,Director
+Olivier Megaton,333100000.0,Director
+Pascal Chaumeil,-15600000.0,Director
+Patricia Riggen,29750000.0,Director
+Patrick Hughes,116200000.0,Director
+Paul Feig,143700000.0,Director
+Paul Greengrass,227900000.0,Director
+Paul McGuigan,-5800000.0,Director
+Paul Thomas Anderson,-3700000.0,Director
+Paul Tibbitt,249400000.0,Director
+Paul W. S. Anderson,106500000.0,Director
+Peter Atencio,5700000.0,Director
+Peter Berg,83000000.0,Director
+Peter Farrelly,119800000.0,Director
+Peter Jackson,706000000.0,Director
+Peter Landesman,-6700000.0,Director
+Peter Lepeniotis,78100000.0,Director
+Peter Lord,68000000.0,Director
+Peter Pau,34470000.0,Director
+Peter Ramsey,161900000.0,Director
+Peyton Reed,389400000.0,Director
+Phil Lord,267500000.0,Director
+Phillip Noyce,42000000.0,Director
+Pierre Morel,-15800000.0,Director
+Quentin Tarantino,218600000.0,Director
+R. J. Cutler,67900000.0,Director
+RZA,300000.0,Director
+Raja Gosnell,242500000.0,Director
+Raman Hui,329200000.0,Director
+Randall Wallace,89300000.0,Director
+Rawson Marshall Thurber,162200000.0,Director
+Renny Harlin,-8700000.0,Director
+Rian Johnson,146500000.0,Director
+Ric Roman Waugh,42800000.0,Director
+Richard LaGravenese,100000.0,Director
+Richard Linklater,40500000.0,Director
+Ridley Scott,397800000.0,Director
+Rob Cohen,-400000.0,Director
+Rob Letterman,66200000.0,Director
+Rob Minkoff,130700000.0,Director
+Rob Thomas,-2500000.0,Director
+Robert Eggers,37400000.0,Director
+Robert Lorenz,-11000000.0,Director
+Robert Schwentke,68266666.66666667,Director
+Robert Zemeckis,73500000.0,Director
+Roger Donaldson,19800000.0,Director
+Roland Emmerich,136150000.0,Director
+Ron Howard,23050000.0,Director
+Rowan Joffé,-6900000.0,Director
+Ruben Fleischer,30200000.0,Director
+Rupert Sanders,226600000.0,Director
+Russell Crowe,8300000.0,Director
+Ryan Coogler,133600000.0,Director
+Ryuhei Kitamura,-1900000.0,Director
+S. Shankar,50000000.0,Director
+Sam Liu,900000.0,Director
+Sam Miller,41100000.0,Director
+Sarah Gavron,18000000.0,Director
+Scott Charles Stewart,22900000.0,Director
+Scott Cooper,46800000.0,Director
+Scott Derrickson,66300000.0,Director
+Scott Frank,30800000.0,Director
+Scott Hicks,74400000.0,Director
+Scott McGehee,-2300000.0,Director
+Scott Waugh,138300000.0,Director
+Sean Anders,111050000.0,Director
+Sergei Bodrov,19200000.0,Director
+Seth Gordon,139000000.0,Director
+Seth MacFarlane,323550000.0,Director
+Seth Rogen,-32700000.0,Director
+Shawn Levy,97566666.66666667,Director
+Simon Curtis,50600000.0,Director
+Simon J. Smith,241000000.0,Director
+Simon West,205400000.0,Director
+Sofia Coppola,11100000.0,Director
+Stephen Chbosky,20400000.0,Director
+Stephen Chow,493080000.0,Director
+Stephen Frears,12700000.0,Director
+Stephen Hopkins,18500000.0,Director
+Steve Martino,464600000.0,Director
+Steven Quale,111700000.0,Director
+Steven Soderbergh,36700000.0,Director
+Steven Spielberg,235900000.0,Director
+Stiles White,98600000.0,Director
+Takashi Yamazaki,161400000.0,Director
+Tarsem Singh,51250000.0,Director
+Tate Taylor,3400000.0,Director
+Taylor Hackford,13500000.0,Director
+The Erwin Brothers,1400000.0,Director
+Thea Sharrock,176200000.0,Director
+Theodore Melfi,41800000.0,Director
+Thomas Carter,15100000.0,Director
+Thor Freudenthal,112200000.0,Director
+Tim Burton,57400000.0,Director
+Tim Johnson,251000000.0,Director
+Tim Miller,724600000.0,Director
+Tim Story,99266666.66666667,Director
+Timo Vuorensola,600000.0,Director
+Timur Bekmambetov,-20850000.0,Director
+Todd Haynes,28500000.0,Director
+Todd Phillips,130850000.0,Director
+Tom Gormican,32500000.0,Director
+Tom Harper,33900000.0,Director
+Tom Hooper,215000000.0,Director
+Tom McCarthy,68300000.0,Director
+Tom Tykwer,2000000.0,Director
+Tommy Wirkola,176300000.0,Director
+Tony Gilroy,151100000.0,Director
+Tony Scott,341800000.0,Director
+Travis Knight,-32400000.0,Director
+Trish Sie,41200000.0,Director
+Tyler Perry,14950000.0,Director
+Valérie Donzelli,5000000.0,Director
+Vic Armstrong,11600000.0,Director
+Wally Pfister,3000000.0,Director
+Walt Becker,144800000.0,Director
+Walter Hill,-33100000.0,Director
+Wes Anderson,102050000.0,Director
+Wes Ball,282800000.0,Director
+Will Gluck,68800000.00000001,Director
+William Brent Bell,77500000.0,Director
+William Eubank,-1580000.0,Director
+William Riead,600000.0,Director
+Woody Allen,43366666.666666664,Director
+Yann Demange,-5200000.0,Director
+Zach Braff,-500000.0,Director
+Zack Snyder,532850000.0,Director
+Zal Batmanglij,-4100000.0,Director
+Aaron Eckhart,-17800000.0,Cast
+Aaron Paul,138300000.0,Cast
+Aaron Taylor-Johnson,369000000.0,Cast
+Abigail Breslin,55600000.0,Cast
+Adam Greaves-Neal,-11300000.0,Cast
+Adam Sandler,207460000.0,Cast
+Adam Scott,2200000.0,Cast
+Adelaide Clemens,32300000.0,Cast
+Adrian Grenier,10300000.0,Cast
+Al Pacino,-1800000.000000001,Cast
+Alec Baldwin,79500000.0,Cast
+Alec Sulkin,148700000.0,Cast
+Alex Kendrick,70700000.0,Cast
+Alexander Skarsgard,172700000.0,Cast
+Alexander Skarsgård,83000000.0,Cast
+Alexandra Daddario,27200000.0,Cast
+Allison Miller,29900000.0,Cast
+Alyson Hannigan,185000000.0,Cast
+Amy Adams,19300000.0,Cast
+Amy Poehler,75000000.0,Cast
+Amy Winehouse,18600000.0,Cast
+Andrew Garfield,527900000.0,Cast
+Andy Serkis,475600000.0,Cast
+Angelina Jolie,-6700000.0,Cast
+Anna Faris,196300000.0,Cast
+Anna Kendrick,178250000.0,Cast
+Annabelle Wallis,250399999.99999997,Cast
+Antonio Banderas,-1100000.0,Cast
+Anya Taylor-Joy,37400000.0,Cast
+Arnold Schwarzenegger,90466666.66666667,Cast
+Art Parkinson,-32400000.0,Cast
+Ashley Bell,10100000.0,Cast
+Ashley Tisdale,58400000.0,Cast
+Ashton Kutcher,23900000.0,Cast
+Astro,32300000.0,Cast
+Aubrey Peeples,-2700000.0,Cast
+Bai Baihe,329200000.0,Cast
+Ben Affleck,279700000.0,Cast
+Ben Foster,273500000.0,Cast
+Ben Kingsley,49300000.0,Cast
+Ben Stiller,80833333.33333333,Cast
+Benedict Cumberbatch,219600000.0,Cast
+Benjamin Walker,16900000.0,Cast
+Bill Melendez,147200000.0,Cast
+Bill Murray,15100000.0,Cast
+Billy Crystal,94800000.0,Cast
+Blake Lively,58450000.0,Cast
+Brad Pitt,172233333.33333334,Cast
+Bradley Cooper,190780000.0,Cast
+Brendan Fraser,34600000.0,Cast
+Brenton Thwaites,-1580000.0,Cast
+Brie Larson,23000000.0,Cast
+Brit Marling,-4100000.0,Cast
+Bruce Willis,138400000.0,Cast
+Bruno Podalydès,-500000.0,Cast
+Bryan Cranston,-19550000.0,Cast
+Burnie Burns,-800000.0,Cast
+Cameron Diaz,100550000.0,Cast
+Carey Mulligan,18000000.0,Cast
+Casey Affleck,-3000000.0,Cast
+Cate Blanchett,28500000.0,Cast
+Cem Yılmaz,8300000.0,Cast
+Chadwick Boseman,3400000.0,Cast
+Channing Tatum,182500000.0,Cast
+Charlie Hunnam,221000000.0,Cast
+Charlize Theron,226600000.0,Cast
+Chloë Grace Moretz,71800000.0,Cast
+Chris Diamantopoulos,24800000.0,Cast
+Chris Evans,544400000.0,Cast
+Chris Hemsworth,11350000.0,Cast
+Chris Pine,72100000.0,Cast
+Chris Pratt,409200000.0,Cast
+Chris Rock,14100000.0,Cast
+Christina Applegate,49800000.0,Cast
+Christoph Waltz,325400000.0,Cast
+Clint Eastwood,-11000000.0,Cast
+Colin Farrell,52024999.99999999,Cast
+Colin Firth,320400000.0,Cast
+Cuba Gooding Jr.,-7600000.0,Cast
+Dane DeHaan,114600000.0,Cast
+Daniel Day-Lewis,210300000.0,Cast
+Daniel Radcliffe,53850000.0,Cast
+Danny DeVito,278800000.0,Cast
+Dave Franco,27600000.0,Cast
+David Koepp,75500000.0,Cast
+David Oyelowo,23800000.0,Cast
+Dax Shepard,12500000.0,Cast
+Deng Chao,493080000.0,Cast
+Denzel Washington,130400000.0,Cast
+Dermot Mulroney,102000000.0,Cast
+Diogo Morgado,45800000.0,Cast
+Domhnall Gleeson,21900000.0,Cast
+Douglas Smith,98600000.0,Cast
+Drew Dowdle (screenplay)Perdita Weeks,0.0,Cast
+Dwayne Johnson,153766666.66666666,Cast
+Dylan Minnette,18400000.0,Cast
+Dylan O'Brien,282800000.0,Cast
+Ed Helms,73900000.0,Cast
+Ed Skrein,47600000.0,Cast
+Eddie Murphy,-18000000.0,Cast
+Eddie Redmayne,78950000.0,Cast
+Edgar Ramirez,28699999.999999985,Cast
+Elizabeth Olsen,-10400000.0,Cast
+Emilia Clarke,176200000.0,Cast
+Emily Blunt,54900000.0,Cast
+Emjay Anthony,46500000.0,Cast
+Emma Stone,34200000.0,Cast
+Emma Watson,15750000.0,Cast
+Eric Bana,57900000.0,Cast
+Ethan Hawke,48825000.0,Cast
+Ewan McGregor,20200000.0,Cast
+Forest Whitaker,146600000.0,Cast
+Frank Grillo,95600000.0,Cast
+Frank Langella,2400000.0,Cast
+Geoffrey Rush,5700000.0,Cast
+George Clooney,75550000.0,Cast
+Gerard Butler,71666666.66666667,Cast
+Greg Kinnear,89300000.0,Cast
+Greta Gerwig,8300000.0,Cast
+Gugu Mbatha-Raw,7600000.0,Cast
+Guy Pearce,12200000.000000004,Cast
+Géza Röhrig,4700000.0,Cast
+Güneş Şensoy,3600000.0,Cast
+Hailee Steinfeld,-12000000.0,Cast
+Harrison Ford,214700000.0,Cast
+Harry Styles,58500000.0,Cast
+Hayden Christensen,-200000.0,Cast
+Helen Mirren,45766666.666666664,Cast
+Henry Cavill,158233333.33333334,Cast
+Hugh Grant,68000000.0,Cast
+Hugh Jackman,300475000.0,Cast
+Ian McKellen,706000000.0,Cast
+Ice Cube,82900000.0,Cast
+Idris Elba,41100000.0,Cast
+Iko Uwais,5070000.0,Cast
+J. K. Simmons,45700000.0,Cast
+Jack Black,220550000.0,Cast
+Jack Huston,-58600000.0,Cast
+Jack O'Connell,46600000.0,Cast
+Jackie Chan,55000000.0,Cast
+Jaden Smith,113800000.0,Cast
+Jake Gyllenhaal,55250000.0,Cast
+Jake Johnson,121200000.0,Cast
+Jakob Salvati,-2500000.0,Cast
+James Badge Dale,24400000.0,Cast
+James Gandolfini,17300000.0,Cast
+James McAvoy,185450000.0,Cast
+James Ransone,42900000.0,Cast
+Jan Bijvoet,1400000.0,Cast
+Jane Levy,80500000.0,Cast
+Jared Gilman,52300000.0,Cast
+Jason Bateman,66300000.0,Cast
+Jason Lee,144800000.0,Cast
+Jason Segel,11950000.0,Cast
+Jason Statham,-9500000.0,Cast
+Jason Sudeikis,273900000.0,Cast
+Jay Baruchel,476500000.0,Cast
+Jeff Bridges,42000000.0,Cast
+Jeff Goldblum,217300000.0,Cast
+Jeffrey Dean Morgan,64500000.0,Cast
+Jennifer Aniston,18800000.0,Cast
+Jennifer Garner,60600000.0,Cast
+Jennifer Lawrence,445325000.0,Cast
+Jeremy Renner,108300000.0,Cast
+Jesse Eisenberg,224300000.0,Cast
+Jessica Alba,-25600000.0,Cast
+Jessica Chastain,112100000.0,Cast
+Jim Carrey,119800000.0,Cast
+Jim Caviezel,15100000.0,Cast
+Jim Parsons,251000000.0,Cast
+Joaquin Phoenix,16400000.0,Cast
+Joel Kinnaman,142700000.0,Cast
+John Cusack,3700000.0,Cast
+John Goodman,17100000.0,Cast
+John Lloyd Young,9100000.0,Cast
+Johnny Depp,33075000.0,Cast
+Jon Favreau,35000000.0,Cast
+Jonah Hill,74600000.0,Cast
+Jonathan Sadowski,36200000.0,Cast
+Jonny Weston,21200000.000000004,Cast
+Jorma Taccone,-10500000.0,Cast
+Joseph Fiennes,26100000.0,Cast
+Joseph Gordon-Levitt,46550000.0,Cast
+Josh Brolin,0.0,Cast
+Josh Holloway,-3500000.0,Cast
+Josh Stewart,-1100000.0,Cast
+Josh Wiggins,24000000.0,Cast
+Judi Dench,101400000.0,Cast
+Julia Dietze,600000.0,Cast
+Julia Roberts,12700000.000000004,Cast
+Julianne Hough,-15600000.0,Cast
+Julianne Moore,-2300000.0,Cast
+Juliet Stevenson,600000.0,Cast
+Justin Fletcher,81000000.0,Cast
+Kate Winslet,3400000.0,Cast
+Katherine Heigl,-3100000.0,Cast
+Kathleen Robertson,500000.0,Cast
+Kathryn Hahn,93500000.0,Cast
+Kathryn Newton,137800000.0,Cast
+Katie Featherston,68100000.0,Cast
+Keanu Reeves,66000000.0,Cast
+Keegan-Michael Key,5700000.0,Cast
+Kellan Lutz,-8700000.0,Cast
+Keri Russell,22900000.0,Cast
+Kevin Bacon,6900000.0,Cast
+Kevin Conroy,900000.0,Cast
+Kevin Costner,4300000.0,Cast
+Kevin Hart,70450000.0,Cast
+Kevin James,49350000.0,Cast
+Kevin Spacey,-10900000.0,Cast
+Kit Harington,37800000.0,Cast
+Kodi Smit-McPhee,47100000.0,Cast
+Kristen Bell,-2500000.0,Cast
+Kristen Stewart,709700000.0,Cast
+Lauren Cohan,54200000.0,Cast
+Leonardo DiCaprio,322000000.0,Cast
+Li Bingbing,34470000.0,Cast
+Liam Neeson,119820000.0,Cast
+Lily Collins,64300000.0,Cast
+Lily James,-11600000.000000002,Cast
+Logan Lerman,112200000.0,Cast
+Louis C.K.,649900000.0,Cast
+Luke Evans,72600000.0,Cast
+Mae Whitman,35000000.0,Cast
+Maggie Smith,35400000.0,Cast
+Mark Ruffalo,149600000.0,Cast
+Mark Wahlberg,209833333.33333334,Cast
+Marlon Wayans,38800000.0,Cast
+Mary Elizabeth Winstead,93300000.0,Cast
+Matt Damon,228575000.0,Cast
+Matthew McConaughey,167966666.66666666,Cast
+Megan Fox,237900000.0,Cast
+Melissa Joan Hart,18500000.0,Cast
+Melissa McCarthy,93575000.0,Cast
+Meryl Streep,40100000.0,Cast
+Mia Wasikowska,19700000.0,Cast
+Michael B. Jordan,133600000.0,Cast
+Michael Fassbender,4400000.0,Cast
+Michael Parks,-1100000.0,Cast
+Michael Peña,-3300000.0,Cast
+Michael Shannon,-11800000.0,Cast
+Mila Kunis,104200000.0,Cast
+Miles Teller,47700000.0,Cast
+Milla Jovovich,175200000.0,Cast
+Morgan Land (screenplay),-5600000.0,Cast
+Naomi Watts,135300000.0,Cast
+Nat Wolff,73500000.0,Cast
+Natalie Dormer,27600000.0,Cast
+Natalie Portman,-22000000.0,Cast
+Neil Patrick Harris,242500000.0,Cast
+Nia Vardalos,70900000.0,Cast
+Nicholas Hoult,82000000.0,Cast
+Nicolas Cage,179800000.0,Cast
+Nicole Kidman,-6900000.0,Cast
+Noah Baumbach(screenplay); Ben Stiller,601900000.0,Cast
+Noomi Rapace,273400000.0,Cast
+O'Shea Jackson,151600000.0,Cast
+Olivia Wilde,35100000.0,Cast
+Oscar Isaac,-8000000.0,Cast
+Owen Wilson,49400000.0,Cast
+Patrick Wilson,244800000.0,Cast
+Paul Giamatti,-7200000.0,Cast
+Paul Rudd,189300000.0,Cast
+Paul Tibbitt (director),249400000.0,Cast
+Paul Walker,46000000.0,Cast
+Philip Seymour Hoffman,8750000.0,Cast
+Phoebe Fox,33900000.0,Cast
+Pierce Brosnan,19800000.0,Cast
+Quvenzhané Wallis,44450000.00000001,Cast
+Ralph Fiennes,151800000.0,Cast
+Ray Liotta,-13200000.0,Cast
+Ray Romano,522650000.0,Cast
+Reese Witherspoon,27100000.0,Cast
+Regina Casé,2200000.0,Cast
+Religious Bale,105300000.00000001,Cast
+Richard Armitage,111700000.0,Cast
+Richard Jenkins,36500000.0,Cast
+Robert De Niro,99500000.0,Cast
+Robert Downey,34400000.0,Cast
+Robert Redford,11900000.0,Cast
+Rodrigo Santoro,227600000.0,Cast
+Rooney Mara,36700000.0,Cast
+Rupert Friend,47300000.0,Cast
+Russell Crowe,118950000.0,Cast
+Ryan Gosling,31100000.0,Cast
+Ryan Guzman,41200000.0,Cast
+Ryan Reynolds,208250000.0,Cast
+Sacha Baron Cohen,114400000.0,Cast
+Sam Rockwell,60400000.0,Cast
+Sam Worthington,79750000.0,Cast
+Samuel L. Jackson,111800000.0,Cast
+Sanaa Lathan,42300000.0,Cast
+Sandra Bullock,83750000.0,Cast
+Saoirse Ronan,37200000.0,Cast
+Sarah Drew,5500000.0,Cast
+Scarlett Johansson,423400000.0,Cast
+Sean Astin,1400000.0,Cast
+Sean Penn,-15800000.0,Cast
+Sergei Bodrov (director) Ben Barnes,19200000.0,Cast
+Seth Rogen,96725000.0,Cast
+Shaheizy Sam,14900000.0,Cast
+Shailene Woodley,188650000.0,Cast
+Sharlto Copley,53100000.0,Cast
+Sharni Vinson,25800000.0,Cast
+Shelley Hennig,63099999.99999999,Cast
+Sigurður Sigurjónsson,-10000.0,Cast
+Simon Pegg,26100000.0,Cast
+Stephan James,18500000.0,Cast
+Steve Carell,296066666.6666667,Cast
+Suraj Sharma,489000000.0,Cast
+Suzan Crowley,100800000.0,Cast
+Sylvester Stallone,96166666.66666667,Cast
+Taron Egerton,23200000.0,Cast
+Taylor Kitsch,38000000.0,Cast
+Teresa Palmer,121000000.0,Cast
+Terrence J,5400000.0,Cast
+Thomas Mann,1100000.0,Cast
+Tina Fey,-10100000.0,Cast
+Tobey Maguire,-13600000.0,Cast
+Tom Cruise,278220000.0,Cast
+Tom Hanks,63750000.0,Cast
+Tom Hardy,72250000.0,Cast
+Tom McGrath,241000000.0,Cast
+Toni Braxton,-18900000.0,Cast
+Toni Collette,-15600000.0,Cast
+Ty Burrell,130700000.0,Cast
+Tyler Perry,9833333.333333334,Cast
+Valérie Donzelli (director),5000000.0,Cast
+Victoria Justice,-2600000.0,Cast
+Vikram,50000000.0,Cast
+Vin Diesel,246466666.66666666,Cast
+Vince Vaughn,7200000.0,Cast
+Viola Davis,-6750000.0,Cast
+Wasabi Mizuta,161400000.0,Cast
+Will Arnett,100350000.0,Cast
+Will Ferrell,84366666.66666667,Cast
+Will Smith,288000000.0,Cast
+Will Yun Lee,-16900000.0,Cast
+Willie Robertson,60600000.0,Cast
+Winter,21800000.0,Cast
+Zac Efron,53450000.0,Cast
+Zach Braff,-500000.0,Cast
+Zachary Gordon,55100000.0,Cast
+Zoey Deutch,-14600000.0,Cast
+Édgar Ramírez,-18300000.0,Cast
